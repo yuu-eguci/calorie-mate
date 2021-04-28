@@ -1,4 +1,4 @@
-GitHub Pages 入門まにある
+GitHub Pages 入門まにある ❤️
 ===
 
 ## まえおき
@@ -12,7 +12,7 @@ GitHub Pages 入門まにある
 - GitHub Desktop
 - 公開したい html
 
-を準備した状態ではじめていただいて、ネットでその html が見れるとこまで、やります。
+を準備した状態ではじめていただいて、 GitHub Pages を使って、ネットでその html が見れるとこまで、やります。
 
 ## 手順
 
@@ -67,3 +67,9 @@ GitHub Pages 入門まにある
 さて、ここからはオマケですが、 GitHub のイートコロとして、みんなでファイルをカンタンにシェアできるトコ、というお話をしましたね。
 
 じゃ、さっそくこの原稿をぼくの GitHub から引っ張ってきてみてください！
+
+- `https://github.com/yuu-eguci/github-pages-lecture`
+- `Code` 押します↓
+- `Open with GitHub Desktop` 押します↓
+
+![11](https://user-images.githubusercontent.com/28250432/116388720-169de600-a857-11eb-9493-60010759090a.png)
